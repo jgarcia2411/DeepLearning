@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="AWS" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="AWS" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
     <serverData>
       <paths name="AWS">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/ubuntu/DeepLearning" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/ubuntu/ASSINGMENTS" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
